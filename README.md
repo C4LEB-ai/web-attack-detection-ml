@@ -1,0 +1,2 @@
+# web-attack-detection-ml
+ This project focuses on detecting web application attacks using a combination of classical machine learning models and deep learning techniques. The dataset used is the CSIC 2010 Dataset, which contains both normal and anomalous HTTP traffic logs. The project aims to improve the accuracy and efficiency of identifying malicious web requests by leveraging multiple machine learning models, including Random Forest, K-Nearest Neighbors (KNN), Decision Tree, Gradient Descent, Artificial Neural Network (ANN), and Multi-Layer Perceptron Classifier (MLPC).
